@@ -1,7 +1,7 @@
 # React + Vite
 
 The project is completed using React JS and Tailwind CSS
-This is just a preview of static website (not Responsice )
+This is just a preview of static website (not Responsive )
 
 To Run the project
 open the file in vs code
